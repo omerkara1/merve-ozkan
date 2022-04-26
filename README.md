@@ -5,7 +5,7 @@ Hi 👋 My name is Merve Ozkan
 Software Developer
 ------------------
 
-* 🌍  I'm based in Ankara
+* 🌍  I'm based in Ankara,Turkey
 * ✉️  You can contact me at [merveozkan.dev@gmail.com](mailto:merveozkan.dev@gmail.com)
 * 🧠  I'm learning Python and SQL
 
