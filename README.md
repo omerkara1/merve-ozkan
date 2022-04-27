@@ -2,7 +2,7 @@
 Hi 👋 My name is Merve Ozkan
 ============================
 
-Software Developer
+Jr.Software Developer
 ------------------
 
 * 🌍  I'm based in Ankara,Turkey
