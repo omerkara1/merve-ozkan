@@ -4,6 +4,8 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Merve....;A+developer+from+Earth;&center=true&size=30">
     </a>
   </h1>
+  
+  <h4 align="center"> Social </h4>
 
   <h5 align="center">
     <code>
