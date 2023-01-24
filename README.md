@@ -10,6 +10,9 @@
       <a href="https://www.linkedin.com/in/merveeozkan/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a> 
       </code>
     <code></code>
+    <p > <a href="https://discord.com/users/merveozkan#3451" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+      <a href="http://www.medium.com/@merve-ozkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+      </p>
     
   </h5>
 <br>
